@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:3000/'
+const baseURL = 'https://main-street-be.herokuapp.com/'
 const profileURL = `${baseURL}/profile`
 const financialURL = `${baseURL}/financials`
 const bannerText = document.querySelector('#bannerText')

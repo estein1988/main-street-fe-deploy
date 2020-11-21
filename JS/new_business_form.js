@@ -1,4 +1,4 @@
-const businessesURL = 'http://localhost:3000/businesses'
+const businessesURL = 'https://main-street-be.herokuapp.com/businesses'
 const form = document.querySelector('#business-form')
 
 form.addEventListener('submit', submitForm)
